@@ -3,10 +3,9 @@ using Microsoft.Data.SqlClient;
 using System.Collections.Generic;
 using Microsoft.Extensions.Configuration;
 using System;
-using SOPBackend.Helper;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
-namespace SOPBackend.Connection_Bridges
+namespace Appointment_Backend.Worker
 {
     public class SQLConnections
     {

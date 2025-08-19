@@ -2,7 +2,7 @@
 
 namespace Appointment_Backend.Controllers
 {
-    public class APIController : Controller
+    public class Doctor_Scheduler_Controller : Controller
     {
         public IActionResult Index()
         {

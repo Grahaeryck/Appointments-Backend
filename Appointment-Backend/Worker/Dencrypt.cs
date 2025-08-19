@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using static System.Net.Mime.MediaTypeNames;
 using Microsoft.IdentityModel.Tokens;
 
-namespace SOPBackend.Helper
+namespace Appointment_Backend.Worker
 {
     public class Dencrypt
     {
