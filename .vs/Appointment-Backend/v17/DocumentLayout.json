@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Graha_Eryck\\source\\repos\\GrahaProject\\Appointment\\Appointments-Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A58B228-2286-4B4C-8C2A-7A297DD9ED6B}|Appointment-Backend\\Appointment-Backend.csproj|c:\\users\\graha_eryck\\source\\repos\\grahaproject\\appointment\\appointments-backend\\appointment-backend\\controllers\\doctor_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A58B228-2286-4B4C-8C2A-7A297DD9ED6B}|Appointment-Backend\\Appointment-Backend.csproj|solutionrelative:appointment-backend\\controllers\\doctor_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A58B228-2286-4B4C-8C2A-7A297DD9ED6B}|Appointment-Backend\\Appointment-Backend.csproj|c:\\users\\graha_eryck\\source\\repos\\grahaproject\\appointment\\appointments-backend\\appointment-backend\\controllers\\doctor_scheduler_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A58B228-2286-4B4C-8C2A-7A297DD9ED6B}|Appointment-Backend\\Appointment-Backend.csproj|solutionrelative:appointment-backend\\controllers\\doctor_scheduler_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A58B228-2286-4B4C-8C2A-7A297DD9ED6B}|Appointment-Backend\\Appointment-Backend.csproj|c:\\users\\graha_eryck\\source\\repos\\grahaproject\\appointment\\appointments-backend\\appointment-backend\\queries\\getqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A58B228-2286-4B4C-8C2A-7A297DD9ED6B}|Appointment-Backend\\Appointment-Backend.csproj|solutionrelative:appointment-backend\\queries\\getqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A58B228-2286-4B4C-8C2A-7A297DD9ED6B}|Appointment-Backend\\Appointment-Backend.csproj|c:\\users\\graha_eryck\\source\\repos\\grahaproject\\appointment\\appointments-backend\\appointment-backend\\models\\get_doctor_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A58B228-2286-4B4C-8C2A-7A297DD9ED6B}|Appointment-Backend\\Appointment-Backend.csproj|solutionrelative:appointment-backend\\models\\get_doctor_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A58B228-2286-4B4C-8C2A-7A297DD9ED6B}|Appointment-Backend\\Appointment-Backend.csproj|c:\\users\\graha_eryck\\source\\repos\\grahaproject\\appointment\\appointments-backend\\appointment-backend\\models\\get_doctor_schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A58B228-2286-4B4C-8C2A-7A297DD9ED6B}|Appointment-Backend\\Appointment-Backend.csproj|solutionrelative:appointment-backend\\models\\get_doctor_schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A58B228-2286-4B4C-8C2A-7A297DD9ED6B}|Appointment-Backend\\Appointment-Backend.csproj|c:\\users\\graha_eryck\\source\\repos\\grahaproject\\appointment\\appointments-backend\\appointment-backend\\models\\insert_doctor_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A58B228-2286-4B4C-8C2A-7A297DD9ED6B}|Appointment-Backend\\Appointment-Backend.csproj|solutionrelative:appointment-backend\\models\\insert_doctor_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A58B228-2286-4B4C-8C2A-7A297DD9ED6B}|Appointment-Backend\\Appointment-Backend.csproj|c:\\users\\graha_eryck\\source\\repos\\grahaproject\\appointment\\appointments-backend\\appointment-backend\\queries\\insertquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A58B228-2286-4B4C-8C2A-7A297DD9ED6B}|Appointment-Backend\\Appointment-Backend.csproj|solutionrelative:appointment-backend\\queries\\insertquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A58B228-2286-4B4C-8C2A-7A297DD9ED6B}|Appointment-Backend\\Appointment-Backend.csproj|c:\\users\\graha_eryck\\source\\repos\\grahaproject\\appointment\\appointments-backend\\appointment-backend\\controllers\\doctor_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A58B228-2286-4B4C-8C2A-7A297DD9ED6B}|Appointment-Backend\\Appointment-Backend.csproj|solutionrelative:appointment-backend\\controllers\\doctor_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A58B228-2286-4B4C-8C2A-7A297DD9ED6B}|Appointment-Backend\\Appointment-Backend.csproj|c:\\users\\graha_eryck\\source\\repos\\grahaproject\\appointment\\appointments-backend\\appointment-backend\\models\\insert_doctor_schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A58B228-2286-4B4C-8C2A-7A297DD9ED6B}|Appointment-Backend\\Appointment-Backend.csproj|solutionrelative:appointment-backend\\models\\insert_doctor_schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Get_Doctor_Schedule.cs",
+              "DocumentMoniker": "C:\\Users\\Graha_Eryck\\source\\repos\\GrahaProject\\Appointment\\Appointments-Backend\\Appointment-Backend\\Models\\Get_Doctor_Schedule.cs",
+              "RelativeDocumentMoniker": "Appointment-Backend\\Models\\Get_Doctor_Schedule.cs",
+              "ToolTip": "C:\\Users\\Graha_Eryck\\source\\repos\\GrahaProject\\Appointment\\Appointments-Backend\\Appointment-Backend\\Models\\Get_Doctor_Schedule.cs",
+              "RelativeToolTip": "Appointment-Backend\\Models\\Get_Doctor_Schedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T09:51:58.135Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -40,48 +61,61 @@
               "RelativeDocumentMoniker": "Appointment-Backend\\Queries\\GetQueries.cs",
               "ToolTip": "C:\\Users\\Graha_Eryck\\source\\repos\\GrahaProject\\Appointment\\Appointments-Backend\\Appointment-Backend\\Queries\\GetQueries.cs",
               "RelativeToolTip": "Appointment-Backend\\Queries\\GetQueries.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T08:37:52.359Z",
+              "WhenOpened": "2025-08-19T09:39:16.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Get_Doctor_Model.cs",
-              "DocumentMoniker": "C:\\Users\\Graha_Eryck\\source\\repos\\GrahaProject\\Appointment\\Appointments-Backend\\Appointment-Backend\\Models\\Get_Doctor_Model.cs",
-              "RelativeDocumentMoniker": "Appointment-Backend\\Models\\Get_Doctor_Model.cs",
-              "ToolTip": "C:\\Users\\Graha_Eryck\\source\\repos\\GrahaProject\\Appointment\\Appointments-Backend\\Appointment-Backend\\Models\\Get_Doctor_Model.cs",
-              "RelativeToolTip": "Appointment-Backend\\Models\\Get_Doctor_Model.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAHAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Insert_Doctor_Schedule.cs",
+              "DocumentMoniker": "C:\\Users\\Graha_Eryck\\source\\repos\\GrahaProject\\Appointment\\Appointments-Backend\\Appointment-Backend\\Models\\Insert_Doctor_Schedule.cs",
+              "RelativeDocumentMoniker": "Appointment-Backend\\Models\\Insert_Doctor_Schedule.cs",
+              "ToolTip": "C:\\Users\\Graha_Eryck\\source\\repos\\GrahaProject\\Appointment\\Appointments-Backend\\Appointment-Backend\\Models\\Insert_Doctor_Schedule.cs",
+              "RelativeToolTip": "Appointment-Backend\\Models\\Insert_Doctor_Schedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T08:35:50.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Doctor_Controller.cs",
-              "DocumentMoniker": "C:\\Users\\Graha_Eryck\\source\\repos\\GrahaProject\\Appointment\\Appointments-Backend\\Appointment-Backend\\Controllers\\Doctor_Controller.cs",
-              "RelativeDocumentMoniker": "Appointment-Backend\\Controllers\\Doctor_Controller.cs",
-              "ToolTip": "C:\\Users\\Graha_Eryck\\source\\repos\\GrahaProject\\Appointment\\Appointments-Backend\\Appointment-Backend\\Controllers\\Doctor_Controller.cs",
-              "RelativeToolTip": "Appointment-Backend\\Controllers\\Doctor_Controller.cs",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAtwI4AAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T08:23:16.587Z",
+              "WhenOpened": "2025-08-19T09:19:21.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Insert_Doctor_Model.cs",
-              "DocumentMoniker": "C:\\Users\\Graha_Eryck\\source\\repos\\GrahaProject\\Appointment\\Appointments-Backend\\Appointment-Backend\\Models\\Insert_Doctor_Model.cs",
-              "RelativeDocumentMoniker": "Appointment-Backend\\Models\\Insert_Doctor_Model.cs",
-              "ToolTip": "C:\\Users\\Graha_Eryck\\source\\repos\\GrahaProject\\Appointment\\Appointments-Backend\\Appointment-Backend\\Models\\Insert_Doctor_Model.cs",
-              "RelativeToolTip": "Appointment-Backend\\Models\\Insert_Doctor_Model.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Title": "InsertQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Graha_Eryck\\source\\repos\\GrahaProject\\Appointment\\Appointments-Backend\\Appointment-Backend\\Queries\\InsertQuery.cs",
+              "RelativeDocumentMoniker": "Appointment-Backend\\Queries\\InsertQuery.cs",
+              "ToolTip": "C:\\Users\\Graha_Eryck\\source\\repos\\GrahaProject\\Appointment\\Appointments-Backend\\Appointment-Backend\\Queries\\InsertQuery.cs",
+              "RelativeToolTip": "Appointment-Backend\\Queries\\InsertQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T08:23:14.931Z",
+              "WhenOpened": "2025-08-19T09:13:52.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Doctor_Scheduler_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Graha_Eryck\\source\\repos\\GrahaProject\\Appointment\\Appointments-Backend\\Appointment-Backend\\Controllers\\Doctor_Scheduler_Controller.cs",
+              "RelativeDocumentMoniker": "Appointment-Backend\\Controllers\\Doctor_Scheduler_Controller.cs",
+              "ToolTip": "C:\\Users\\Graha_Eryck\\source\\repos\\GrahaProject\\Appointment\\Appointments-Backend\\Appointment-Backend\\Controllers\\Doctor_Scheduler_Controller.cs",
+              "RelativeToolTip": "Appointment-Backend\\Controllers\\Doctor_Scheduler_Controller.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAnwJEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T09:02:04.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Doctor_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Graha_Eryck\\source\\repos\\GrahaProject\\Appointment\\Appointments-Backend\\Appointment-Backend\\Controllers\\Doctor_Controller.cs",
+              "RelativeDocumentMoniker": "Appointment-Backend\\Controllers\\Doctor_Controller.cs",
+              "ToolTip": "C:\\Users\\Graha_Eryck\\source\\repos\\GrahaProject\\Appointment\\Appointments-Backend\\Appointment-Backend\\Controllers\\Doctor_Controller.cs",
+              "RelativeToolTip": "Appointment-Backend\\Controllers\\Doctor_Controller.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAUwJQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T09:02:03.969Z",
               "EditorCaption": ""
             }
           ]

@@ -82,6 +82,12 @@ namespace Appointment_Backend.Controllers
                 idColumnName = "Doctor ID";
                 table = "Appointment_Doctors";
             }
+            else if(type.ToUpper().Equals("SID"))
+            {
+                prefix = "SID";
+                idColumnName = "Schedule ID";
+                table = "Appointment_Doctor_Schedule";
+            }
 
             data = connecttions.GetTable(getQueries.QGetDistinct(idColumnName, table));
             if (data.Rows.Count > 0)
