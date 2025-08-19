@@ -5,7 +5,7 @@
         public string qGetAll = "SELECT * FROM {0}";
         public string qGetSome = "SELECT * FROM {0} WHERE UPPER([{1}]) LIKE '%{2}%'";
         public string qGetDistinct = "SELECT DISTINCT [{0}] FROM {1}";
-        public string qGetSchedule = "SELECT * FROM Appointment_Doctor_Schedule WHERE [Doctor ID] = '{0}' AND CONVERT(DATE, [Appointment Date], 103) = CONVERT(DATE, '{1}', 103);";
+        public string qGetSchedule = "SELECT * FROM Appointment_Doctor_Schedule WHERE [Doctor ID] = '{0}' AND [Appointment Date] = '{1}'";
 
         public string QGetAll(string table)
         {
@@ -22,7 +22,8 @@
 
         public string QGetSchedule(string drID, DateOnly date)
         {
-            return string.Format(qGetSchedule, drID, date);
+            System.Diagnostics.Debug.WriteLine(string.Format(qGetSchedule, drID, date.ToString("yyyy-MM-dd")));
+            return string.Format(qGetSchedule, drID, date.ToString("yyyy-MM-dd"));
         }
 
     }

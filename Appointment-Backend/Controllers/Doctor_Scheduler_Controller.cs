@@ -117,6 +117,7 @@ namespace Appointment_Backend.Controllers
             try
             {
                 Get_Doctor_Schedule res = new Get_Doctor_Schedule();
+                res.drID = input.drID;
                 res.timeSlot = new List<Get_Doctor_Schedule_Slot>();
 
                 TimeOnly startTime = new TimeOnly();

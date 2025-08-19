@@ -12,7 +12,7 @@
         public string QInsertIntoSchedule(string sID, string drID, string pName, string pEmail, string pPhNumber, DateOnly date, TimeOnly time)
         {
             string qInsertIntoSchedule = "INSERT INTO Appointment_Doctor_Schedule ([Schedule ID],[Doctor ID],[Patient Name],[Patient Email],[Patient Phone Number],[Appointment Date],[Appointment Time]) VALUES ('{0}','{1}','{2}','{3}','{4}','{5}','{6}');";
-            return string.Format(qInsertIntoSchedule, sID, drID, pName, pEmail, pPhNumber, date, time);
+            return string.Format(qInsertIntoSchedule, sID, drID, pName, pEmail, pPhNumber, date.ToString("yyyy-MM-dd"), time.ToString("HH:mm:ss"));
         }
 
     }
