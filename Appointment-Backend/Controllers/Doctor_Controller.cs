@@ -147,7 +147,7 @@ namespace Appointment_Backend.Controllers
                     temp.fullName = row["Full Name"].ToString();
                     temp.poli = row["Poli"].ToString();
                     temp.startTime = TimeOnly.Parse(row["StartTime"].ToString());
-                    temp.endTime = temp.startTime = TimeOnly.Parse(row["EndTime"].ToString());
+                    temp.endTime = TimeOnly.Parse(row["EndTime"].ToString());
                     temp.offDays = row["Off Days"].ToString().Split(",").ToList();
                     res.Add(temp);
                 }
